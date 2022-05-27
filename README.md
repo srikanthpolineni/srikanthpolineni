@@ -17,6 +17,6 @@ I'm a Full stack web developer who likes to build things in the Cloud. I work ma
 
 
 ### :link:	
-<a href="https://www.linkedin.com/in/srikanthpolineni/" target="_blank">
+<a href="https://www.linkedin.com/in/srikanthpolineni/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://static-exp1.licdn.com/sc/h/9l9jpbbo1quwqsej3vu7hzj10"/>
 </a>
